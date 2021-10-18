@@ -26,9 +26,10 @@
   <a href="https://dart.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/vp/55059/png/dart.png" alt="dart" width="40" height="40"/> </a> 
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHanyAbdelkader&show_icons=true&locale=en&layout=compact" alt="ahmedmmahrous"  /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHanyAbdelkader&show_icons=true&locale=en&layout=compact" alt="ahmed hany"  />
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedHanyAbdelkader&show_icons=true&locale=en" alt="ahmed hany" /></p>
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedHanyAbdelkader&show_icons=true&locale=en" alt="ahmed hany" /></p>
 
 
 
