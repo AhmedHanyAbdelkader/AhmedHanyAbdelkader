@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="100" align="center" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" height="175px"/></a>
+<a href="#" align="center"><img width="34%" height="100" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Hany</h1>
 <h3 align="center">I'm a passionate Flutter Developer from Egypt.</h3>
