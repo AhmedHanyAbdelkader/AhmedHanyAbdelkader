@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2017/03/23/09/34/artificial-intelligence-2167835_960_720.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn-icons-png.flaticon.com/512/868/868786.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed</h1>
 <h3 align="center">I'm a passionate Flutter Developer from Egypt.</h3>
@@ -71,9 +71,10 @@
 <a href = "https://www.linkedin.com/in/ahmed-hany-73b220199/"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
   <p>
 <a href="https://twitter.com/AhmedHa06357337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed hany" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/ah2617557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed hany" height="30" width="40" /></a>
     
-    <a href="https://codeforces.com/profile/Ahmed_Hany1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ahmed_Hany1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ahmed_Hany1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed hany" height="30" width="40" /></a>
 </p>
 
 </p>
