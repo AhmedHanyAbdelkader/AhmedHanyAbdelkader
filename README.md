@@ -1,5 +1,5 @@
 
-<a href="#"><img width="40%" height="100" src="https://cdn-icons.flaticon.com/png/512/534/premium/534621.png?token=exp=1634579694~hmac=c916c27c0472f9cb2dee651bcd2756fc" height="175px"/></a>
+<a href="#"><img width="40%" height="100" align="center" src="https://cdn-icons.flaticon.com/png/512/534/premium/534621.png?token=exp=1634579694~hmac=c916c27c0472f9cb2dee651bcd2756fc" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Hany</h1>
 <h3 align="center">I'm a passionate Flutter Developer from Egypt.</h3>
