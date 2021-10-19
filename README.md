@@ -12,7 +12,9 @@
 
 - 👀 I’m interested in **Mobile Applications** field.
 
-- 🌱 I’m currently learning **Data Structures , Algorithms and Flutter.**
+- 🌱 I’m currently learning **Computer Science.**
+
+<!-- - 🌱 I’m currently learning **Data Structures , Algorithms and Flutter.** -->
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
