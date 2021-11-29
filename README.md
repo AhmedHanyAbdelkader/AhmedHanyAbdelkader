@@ -10,9 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m  **Mobile Applications Developer**.
+- 👀 I’m  **Software Engineer**.
  
-- 👀 I’m interested in **Machine Learning and Deep Learning** field.
+- 👀 I’m interested in **Mobile Applications Development & Machine Learning and Deep Learning** fields.
 
 - 🌱 I’m currently learning **Computer Science.**
 
