@@ -31,6 +31,8 @@
 <p align="left">
   <a href="https://flutter.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png" alt="flutter" width="40" height="40"/> </a>
   <a href="https://dart.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/vp/55059/png/dart.png" alt="dart" width="40" height="40"/> </a> 
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.AnHSxuNZFsyTmZlJhutaZAHaHa?pid=ImgDet&rs=1" alt="firebase" width="40" height="40"/> </a> 
+ 
   </p>
 
 <p>
