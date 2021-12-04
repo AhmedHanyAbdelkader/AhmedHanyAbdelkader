@@ -30,8 +30,12 @@
 
 <p align="left">
   <a href="https://flutter.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/vp/55059/png/dart.png" alt="dart" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v70c5e166a48b2c4e0a0d27f0b12c8c47a28a215b513b1100ea89abd1a9e8a095/firebase/images/lockup.png" alt="firebase" width="150" height="40"/> </a> 
+ 
+ <a href="https://dart.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/vp/55059/png/dart.png" alt="dart" width="40" height="40"/> </a> 
+ 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v70c5e166a48b2c4e0a0d27f0b12c8c47a28a215b513b1100ea89abd1a9e8a095/firebase/images/lockup.png" alt="firebase" width="150" height="40"/> </a> 
+ 
+ <a href="https://developer.android.com/studio" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v70c5e166a48b2c4e0a0d27f0b12c8c47a28a215b513b1100ea89abd1a9e8a095/android/images/lockup.svg" alt="android studio" width="40" height="40"/> </a> 
  
   </p>
 
