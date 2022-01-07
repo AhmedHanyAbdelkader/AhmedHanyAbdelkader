@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#"><img width="80%" height="auto" src=" https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg" height="130px"/></a>
+<a href="#"><img width="80%" height="auto" src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg" height="130px"/></a>
 </p>
 
 <!-- https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
