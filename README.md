@@ -31,8 +31,8 @@
 <p align="left">
   <a href="https://flutter.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png" alt="flutter" width="40" height="40"/> </a>
  <a href="https://dart.dev/" target="_blank"> <img src="https://iconape.com/wp-content/files/vp/55059/png/dart.png" alt="dart" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://th.bing.com/th/id/R.c521e7e67222276a6860665a46813cc6?rik=AoUIOAvVTiB1cQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&ehk=YpYeUgKU5BtUZmTIpsZiQ5pFGAOc5w0Xm5klm2orTIg%3d&risl=&pid=ImgRaw&r=0" alt="firebase" width="150" height="40"/> </a> 
- <a href="https://www.android.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" alt="android" width="140" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://th.bing.com/th/id/R.c521e7e67222276a6860665a46813cc6?rik=AoUIOAvVTiB1cQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&ehk=YpYeUgKU5BtUZmTIpsZiQ5pFGAOc5w0Xm5klm2orTIg%3d&risl=&pid=ImgRaw&r=0" alt="firebase" width="50" height="50"/> </a> 
+ <a href="https://www.android.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" alt="android" width="40" height="40"/> </a> 
  <a href="https://flame-engine.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/6718144/101553774-3bc7b000-39ad-11eb-8a6a-de2daa31bd64.png" alt="flame" width="40" height="40"/> </a>
 
  
