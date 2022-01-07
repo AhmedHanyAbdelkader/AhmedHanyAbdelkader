@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#"><img width="80%" height="auto" src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="175px"/></a>
+<a href="#"><img width="80%" height="auto" src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="130px"/></a>
 </p>
 <!-- https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg -->
 
