@@ -30,11 +30,6 @@
 </p>
 
 
-### Github Activity ✔:
-
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHanyAbdelkader&theme=tokyonight" />
-  </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,6 +37,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="[https://www.buymeacoffee.com/AhmedHanyAbdelkader](https://www.buymeacoffee.com/ah2617557T)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AhmedHanyAbdelkader" /></a><a href="https://ko-fi.com/AhmedHanyAbdelkader"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AhmedHanyAbdelkader" /></a></p><br><br>
+
+
+
+### Github Activity ✔:
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHanyAbdelkader&theme=tokyonight" />
+  </a>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&layout=compact" alt="ahmedhanyabdelkader" /></p>
 
