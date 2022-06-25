@@ -49,7 +49,7 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&layout=tokyonight" alt="ahmedhanyabdelkader" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhanyabdelkader" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhanyabdelkader&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhanyabdelkader" /></p>
