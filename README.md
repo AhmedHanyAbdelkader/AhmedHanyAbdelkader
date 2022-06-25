@@ -49,9 +49,9 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&layout=compact" alt="ahmedhanyabdelkader" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&layout=tokyonight" alt="ahmedhanyabdelkader" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhanyabdelkader&show_icons=true&locale=en" alt="ahmedhanyabdelkader" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhanyabdelkader&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhanyabdelkader" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhanyabdelkader&" alt="ahmedhanyabdelkader" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhanyabdelkader&theme=tokyonight" alt="ahmedhanyabdelkader" /></p>
