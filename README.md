@@ -43,12 +43,14 @@
 ### Github Activity ✔:
 
 <a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHanyAbdelkader&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHanyAbdelkader&theme=tokyonight" />
   </a>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&layout=compact" alt="ahmedhanyabdelkader" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&layout=compact" alt="ahmedhanyabdelkader" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhanyabdelkader&show_icons=true&locale=en" alt="ahmedhanyabdelkader" /></p>
 
