@@ -49,7 +49,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHanyAbdelkader&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedHanyAbdelkader&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedHanyAbdelkader&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedHanyAbdelkader&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedHanyAbdelkader&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedHanyAbdelkader&theme=radical&utcOffset=8)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedHanyAbdelkader&theme=radical&show_icons=true&locale=en&" alt="ahmedhanyabdelkader" /></p>
