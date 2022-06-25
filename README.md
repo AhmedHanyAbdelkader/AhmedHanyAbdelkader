@@ -42,12 +42,6 @@
 
 ### Github Activity ✔:
 
-<a href="https://github.com/AhmedHanyAbdelkader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHanyAbdelkader&theme=tokyonight" />
-  </a>
-
-
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhanyabdelkader" />
 </p>
