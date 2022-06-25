@@ -7,7 +7,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedHanyAbdelkader&layout=compact&theme=algolia" alt="AhmedHanyAbdelkader" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedHanyAbdelkader&layout=compact&theme=radical" alt="AhmedHanyAbdelkader" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -43,18 +43,18 @@
 ### Github Activity ✔:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhanyabdelkader" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhanyabdelkader&show_icons=true&locale=en&theme=radical" alt="ahmedhanyabdelkader" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHanyAbdelkader&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedHanyAbdelkader&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedHanyAbdelkader&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedHanyAbdelkader&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedHanyAbdelkader&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedHanyAbdelkader&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedHanyAbdelkader&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedHanyAbdelkader&theme=gruvbox&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedHanyAbdelkader&theme=radical&utcOffset=8)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedHanyAbdelkader&theme=gruvbox&show_icons=true&locale=en&" alt="ahmedhanyabdelkader" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedHanyAbdelkader&theme=radical&show_icons=true&locale=en&" alt="ahmedhanyabdelkader" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=AhmedHanyAbdelkader&theme=gruvbox" alt="ahmedhanyabdelkader" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=AhmedHanyAbdelkader&theme=radical" alt="ahmedhanyabdelkader" /></p>
 
 
 
