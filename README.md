@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **ah2617557@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1Rphh1nw0S0P0beA24D73XfgkP85wU1xK](https://drive.google.com/drive/u/0/folders/1Rphh1nw0S0P0beA24D73XfgkP85wU1xK)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18A_a44vjCgOmYZSB-xFW-aHrOIo97vkw/view?usp=sharing]
+(https://drive.google.com/file/d/18A_a44vjCgOmYZSB-xFW-aHrOIo97vkw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
